@@ -1,1 +1,2 @@
-# LittleOctupus Android Library
+# LittleOctopus Android Library
+Work in progress.
